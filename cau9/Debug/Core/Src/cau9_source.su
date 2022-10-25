@@ -1,0 +1,4 @@
+../Core/Src/cau9_source.c:21:6:setTimer0	16	static
+../Core/Src/cau9_source.c:27:6:setTimer1	16	static
+../Core/Src/cau9_source.c:33:6:setTimer2	16	static
+../Core/Src/cau9_source.c:39:6:timer_run	4	static

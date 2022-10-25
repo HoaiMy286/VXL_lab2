@@ -1,0 +1,3 @@
+../Core/Src/cau4_source.c:16:6:setTimer1	16	static
+../Core/Src/cau4_source.c:22:6:setTimer2	16	static
+../Core/Src/cau4_source.c:28:6:timeRun	4	static
